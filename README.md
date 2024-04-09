@@ -1,4 +1,4 @@
 # demo_sb
-First repo
+First repository
 <br>
 Author - Saraswat Bhattacharya
